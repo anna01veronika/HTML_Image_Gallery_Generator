@@ -17,15 +17,17 @@ Usage
 To run the program, compile the Java files and use the following commands:
 
 1. Generate Gallery
-   
+   '''bash
    java Main <folder_path>
 
 2. Clean Gallery (Delete HTML files)
-   
+   '''bash
    java Main <folder_path> -c
 
 3. Help
-   
+   '''bash 
    java Main -h
    or
    java Main -help
+
+   I uploaded a zip file that contains a folder that almost covers all the possible outcomes for the program, so you can test it out yourself!
